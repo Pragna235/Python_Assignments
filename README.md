@@ -1,2 +1,4 @@
-# PerfectB_Python_Projects
-Hands on Python Assignments
+# Python Assignments
+* Perfect B
+* Hands on Python Assignments
+
